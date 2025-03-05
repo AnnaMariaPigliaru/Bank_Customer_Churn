@@ -1,8 +1,6 @@
 # Bank Customer Churn
 *Exploratory Data Analysis of an European Bank's Customer Churn patterns*
 
-## Table of Contents
-
 
 ## 1. Project Background
 
