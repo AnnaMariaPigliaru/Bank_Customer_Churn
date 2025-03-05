@@ -91,3 +91,47 @@ In addition, the balance median of churned customers in range €50,000 - €100
 <img src="https://github.com/user-attachments/assets/08ad6644-e682-42aa-b50f-cf8903607b3e" alt="Alt Text" style="width:50%; height:auto;">
 
 
+### 3.3 Geographical Segmentation
+France holds the highest number of retained customers followed by Spain with a count of 2,063. Germany, however, shows the highest share of churned users that occupy 32% of the country’s global user count.
+
+<img src="https://github.com/user-attachments/assets/0629421a-f46e-49dc-9462-b7b4969a3762" style="width:40%; height:auto;">
+
+Please note that all discussions henceforth will focus around the churned population only.
+
+#### 3.3.1 Salary Orientated
+Germany’s highest customers count has users earning less than €50,000 whereas France and Spain both have the highest count for salary €150,000 - €200,000.
+
+<img src="https://github.com/user-attachments/assets/91ad5b3a-43b7-48d1-b92c-691709b6da4d" style="width:50%; height:auto;">
+
+Additionally, when it comes to France and Spain there is a strong positive relationship between salary range and churn count. In other words, the higher the client’s salary, the higher the probability of exit. In the case of Germany, on the other hand, there is a moderate negative relationship between the two variables: the higher the salary the lower the chance of customer exist.
+
+Though the global median salary in Germany is the highest compared to other countries (same applies for the median salary of its retained customers), the country’s median salary for exited clients is the lowest with €96,498.14.
+
+Additionally, when it comes to France and Spain there is a strong positive relationship between salary range and churn count. In other words, the higher the client’s salary, the higher the probability of exit. In the case of Germany, on the other hand, there is a moderate negative relationship between the two variables: the higher the salary the lower the chance of customer exist.
+
+Though the global median salary in Germany is the highest compared to other countries (same applies for the median salary of its retained customers), the country’s median salary for exited clients is the lowest with €96,498.14.
+
+<img src="https://github.com/user-attachments/assets/7d575eac-2a27-4eba-95fb-8eb0b1c7a7a4" style="width:50%; height:auto;">
+
+Germany leads with the highest median salary in all ranges aside from  range 50,000 – 100,000  where it has the lowest. Furthermore, Germany holds the highest median salary for present users and the lowest for churned.
+
+<img src="https://github.com/user-attachments/assets/5f90d2c0-ce9d-44c2-9c56-a4eee95ff4f4" style="width:50%; height:auto;">
+
+<img src="https://github.com/user-attachments/assets/79319a51-c00c-4de1-aee8-cc215563bda9" style="width:50%; height:auto;">
+
+#### 3.3.2 Age Orientated
+Germany has the highest customer count for ages under 50,  France alternatively leads in ages between 50 and 60.
+
+<img src="https://github.com/user-attachments/assets/6258837f-25f1-4feb-82d6-374d46d80cf9" style="width:50%; height:auto;">
+
+All three countries present a negative relationship between age and churn count. More specifically,  France and Germany have a week correlation while Spain a moderate one.
+
+#### 3.3.3 Credit Score Orientated
+
+The following chart shows the  most populated credit score ranges across the countries: most of the terminated users in France have credit score between 600 and 700, in Germany and Spain between 600 and 650 with 154 and 78 customers respectively.
+
+<img src="https://github.com/user-attachments/assets/8171742b-d756-4053-b051-3fc4a66f14d5" style="width:50%; height:auto;">
+
+In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries. In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries.
+
+#### 3.3.4 Prodcuts Orientated
