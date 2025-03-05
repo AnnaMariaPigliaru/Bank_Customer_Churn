@@ -1,6 +1,9 @@
 # Bank Customer Churn
 *Exploratory Data Analysis of an European Bank's Customer Churn patterns*
 
+## Table of Contents
+[1. Project Background](#project-background)
+
 ## 1. Project Background
 
 The dataset used for the following project was provided by Maven Analytics and it comprises account information of 10,000 customers  from an undisclosed European Bank. The Bank’s Marketing Team requests to identify possible causes of impact on customer retention.
