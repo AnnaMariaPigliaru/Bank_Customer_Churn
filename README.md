@@ -135,3 +135,40 @@ The following chart shows the  most populated credit score ranges across the cou
 In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries. In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries.
 
 #### 3.3.4 Prodcuts Orientated
+Across all countries the number of products most popular is 1 and 2 with France and Germany with the peak  figures of clients that have the mentioned number of products.
+
+A very strong negative relationship is discovered between the number of products and the churn frequency: the higher the number of products, less are the chances of experiences a customer loss.
+
+#### 3.3.5 Tenure Orientated
+
+Spain and France have the highest count of leaving clients at 2 years, then 3 and finally 1. In Germany, on the other hand , customers tend to exit most in year 1 with a significant count of 105 heads.
+
+<img src="https://github.com/user-attachments/assets/73af816f-7916-4c56-875f-bb29d1f86263" style="width:50%; height:auto;">
+
+However, it is observed that there is an absent to weak relationship between the number of retention years and the churn probability, which could potentially mean that customer loyalty is determined by other factors.
+
+#### 3.3.6 Gender and Activity Orientated
+It is observed that in all countries the number of females is higher than the males. France has the highest difference between genders with 24% and Germany the lowest with 18%.
+
+<img src="https://github.com/user-attachments/assets/94709ace-38f7-44f9-b57a-ac8be00263e6" style="width:50%; height:auto;">
+
+<img src="https://github.com/user-attachments/assets/eb1cc040-1f1a-4385-8c20-3ba8fa1f99b6" style="width:50%; height:auto;">
+
+In fact, while carrying out a correlation analysis it is observed that both Gender and Activity have a perfect relationship with the churn probability.
+
+
+## 4. Recommendations
+
+Considering that Females have the tendency to churn, the bank must focus particular attention on the gender by offering female orientated products, incentives and/or offers.
+
+Furthermore, incentive programs and rewards should be proposed to customers between 40 and 70 years and those whose credit score is under 400. Further investigation should be carried out in Germany to better understand the reasons behind the elevated churn of clients  under 50 years.
+
+The Marketing department should motivate users to have as many products as possible as this reduces the chances of them leaving.
+
+Since a large number of users exit the bank after 1 or 2 years, the marketing team should be informed via an alert or notification whenever a customer is approaching the 12 month retention target, ideally, the alert should be activated at 9 months from customer enrolment.
+
+A notification should also be set when a user reaches an account balance of €100,000 in order to share a tailored promotional offer with the aim to retain him/her. Another alert when the account balance is €0  as the customer will surely exit at the value.
+
+To conclude, the marketing team should develop their future strategies to tackle customer churn based on the clients Age, Gender and Activity as these are the 3 variables which have a direct influence on the overall churn rate. 
+
+
