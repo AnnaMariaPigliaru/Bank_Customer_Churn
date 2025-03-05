@@ -12,4 +12,4 @@ The dataset used for the following project was provided by Maven Analytics and i
 The dataset’s structure as seen below consists of 2 tables: Customer_info and Account_info with a total row count of 20,002 records. The dataset was cleaned and relieved of duplicates and considerable outliers.
 
 ### 1.2 Data Analysis
-Excel was the tool used for the data cleaning and transformation. A dashboard was developed to offer the Marketing Team the opportunity to globally monitor customer retention. All can be viewed [View Here]
+Excel was the tool used for the data cleaning and transformation. A dashboard was developed to offer the Marketing Team the opportunity to globally monitor customer retention. All can be viewed [View Here](Bank_Churn_Clean.xlsx)
