@@ -42,3 +42,11 @@ The following table highlights how Activity, Gender and Number of Products are t
 
 ### 3.1 Demographic Segmentation
 The bank’s customers database comprises a relatively even gender distribution with 55% being Male while 45% Female and it is observed that the second have a higher churn rate of 11% compared to the 9% of the opposite gender.
+
+![churn_by_gender](https://github.com/user-attachments/assets/7e0de4c2-341b-4276-9243-61d258fbc24b)
+
+The age range between 30 and 40 being the most populated covering 43% of customers database. The ages between 50 and 60, however,  carry the highest number of churned customers with 56% of their population followed by range 60 – 70 with 35%. In particular, clients aged 56 and 60 have a churn rate of 71% and 52% respectively.
+
+![churn_by_age](https://github.com/user-attachments/assets/e5d7b5f0-be74-4b03-af08-79f32d619ff3)
+
+The churned customer count is nearly evenly distributed across the salary groups and the income range between €150,000 and €200,000 showcases the highest customer exist with 21.47% , more specifically those clients earning between € 170,000 and €180,000. Furthermore, it is relevant to highlight that looking closely into the income range €110,000 - €120,000 it can be noticed that the churn rate is of 21.59% that is the second highest.
