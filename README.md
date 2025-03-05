@@ -50,3 +50,43 @@ The age range between 30 and 40 being the most populated covering 43% of custome
 ![churn_by_age](https://github.com/user-attachments/assets/e5d7b5f0-be74-4b03-af08-79f32d619ff3)
 
 The churned customer count is nearly evenly distributed across the salary groups and the income range between €150,000 and €200,000 showcases the highest customer exist with 21.47% , more specifically those clients earning between € 170,000 and €180,000. Furthermore, it is relevant to highlight that looking closely into the income range €110,000 - €120,000 it can be noticed that the churn rate is of 21.59% that is the second highest.
+
+![churn_by_salary](https://github.com/user-attachments/assets/687a8eb3-3222-4c39-aafd-9e67c0a99e5d)
+![churn_by_salary2](https://github.com/user-attachments/assets/be8b0422-0306-46a0-ae22-89a4a8893987)
+
+It is also observed that in all salary ranges the median salary is higher in those clients who have exited, except for range  €100,000 –  €150,000 where the exited clients median salary is €1,629 lower compared to those still present.
+
+A total of 3,331 customers fall under the “Fair” Credit Score range where the customers have an average credit score of 626 and fill 33% of the total dataset. Customers with a Poor credit score have the greatest  churn rate  (22.03%) followed by Very Good and Fair.
+
+![churn_by_credit](https://github.com/user-attachments/assets/384f1537-eee2-453e-b7fb-19acc26c9aa9)
+
+Moreover, there is a 0% retention rate for all clients with credit scores under 400 while a 25.30% churn rate for credit scores between 400 and 450.
+
+![credit_range](https://github.com/user-attachments/assets/32fdf74d-f6b9-4ba6-9cdc-ecd5feeca4ad)
+
+### 3.2 Behavioural Segmentation
+Focusing on churned customers, their greatest share has a 1 year retention duration, followed by 3 & 9 and 5 years. The churn distribution across the number of years is however relatively even.
+
+![churn_by_retention](https://github.com/user-attachments/assets/2858566f-d6a7-4b27-8a2e-b79d293a5b50)
+
+Over half of the exited users are inactive while 55% of the retained clients are active.
+
+![active_inactive](https://github.com/user-attachments/assets/116a0870-7585-4d60-8e5f-64658f4f6ac2)  ![card_nocard](https://github.com/user-attachments/assets/62e4f356-747f-47fe-9e87-a958efc86111)
+
+Over 60% of churned clients do not possess a card while 55% of retained users do.  Additionally, there is a perfect positive relationship between a customer being active and he/she owning a credit card.
+
+![churn_by_product](https://github.com/user-attachments/assets/7ae9fad5-b5c4-4116-9dfd-37736c4fe209)
+
+Over 90% of the current customers make use of 2 products while 72% of 1 product only. It can be observed that customers who have 4 products have all exited and that 80% of the users with 3 products have also churned.
+
+![churn_by_balance](https://github.com/user-attachments/assets/5b840611-7885-4645-9c33-a448f037e5c6)
+
+Centering on the account balance of churned clients, 42% of the users are found in the bank account range  €100,000 –  €150,000 while range <€10,000 holds 25% of the exited users; almost all in the second with a balance equal to 0.
+
+![churn_balance2](https://github.com/user-attachments/assets/d7606307-8995-484a-a218-5c12dcbae389)
+
+In addition, the balance median of churned customers in range €50,000 - €100,000 is  higher  by €1,713 than that of the retained clients-
+
+![Balance Median](https://github.com/user-attachments/assets/08ad6644-e682-42aa-b50f-cf8903607b3e)
+
+
