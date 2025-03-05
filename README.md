@@ -3,6 +3,7 @@
 
 ## Table of Contents
 [1. Project Background](#project-background)
+
 [1.1 Data Structure](#data-structure)
 
 ## 1. Project Background
