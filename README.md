@@ -6,7 +6,7 @@
 
 [Data Structure](#data-structure)
 
-[Data Analysis](#data-analysis)
+[1.2 Data Analysis](#1.2-data-analysis)
 
 ## 1. Project Background
 
