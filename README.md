@@ -17,6 +17,9 @@ The dataset’s structure as seen below consists of 2 tables: Customer_info and 
 ### 1.2 Data Analysis
 Excel was the tool used for the data cleaning and transformation. A dashboard was developed to offer the Marketing Team the opportunity to globally monitor customer retention. All can be viewed [Here](Bank_Churn_Clean.xlsx)
 
+<img src="https://github.com/user-attachments/assets/4755a73c-0fb5-4866-b418-0efe118806d6" alt="Alt Text" style="width:50%; height:auto;">
+
+
 
 ## 2. Executive Summary
 
