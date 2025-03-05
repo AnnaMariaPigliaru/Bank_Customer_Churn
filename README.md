@@ -4,7 +4,9 @@
 ## Table of Contents
 [1. Project Background](#project-background)
 
-  [1.1 Data Structure](#data-structure)
+[1.1 Data Structure](#data-structure)
+
+[1.2 Data Analysis](#data-analysis)
 
 ## 1. Project Background
 
