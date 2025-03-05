@@ -70,11 +70,12 @@ Focusing on churned customers, their greatest share has a 1 year retention durat
 
 Over half of the exited users are inactive while 55% of the retained clients are active.
 
-<img src="https://github.com/user-attachments/assets/116a0870-7585-4d60-8e5f-64658f4f6ac2" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/116a0870-7585-4d60-8e5f-64658f4f6ac2" alt="Alt Text" style="width:25%; height:auto;">
 
-<img src="https://github.com/user-attachments/assets/62e4f356-747f-47fe-9e87-a958efc86111" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/62e4f356-747f-47fe-9e87-a958efc86111" alt="Alt Text" style="width:25%; height:auto;">
 
 Over 60% of churned clients do not possess a card while 55% of retained users do.  Additionally, there is a perfect positive relationship between a customer being active and he/she owning a credit card.
+
 <img src="https://github.com/user-attachments/assets/7ae9fad5-b5c4-4116-9dfd-37736c4fe209" alt="Alt Text" style="width:50%; height:auto;">
 
 Over 90% of the current customers make use of 2 products while 72% of 1 product only. It can be observed that customers who have 4 products have all exited and that 80% of the users with 3 products have also churned.
@@ -87,6 +88,6 @@ Centering on the account balance of churned clients, 42% of the users are found 
 
 In addition, the balance median of churned customers in range €50,000 - €100,000 is  higher  by €1,713 than that of the retained clients-
 
-![Balance Median](https://github.com/user-attachments/assets/08ad6644-e682-42aa-b50f-cf8903607b3e) alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/08ad6644-e682-42aa-b50f-cf8903607b3e" alt="Alt Text" style="width:50%; height:auto;">
 
 
