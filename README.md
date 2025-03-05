@@ -49,9 +49,11 @@ The age range between 30 and 40 being the most populated covering 43% of custome
 
 <img src="https://github.com/user-attachments/assets/e5d7b5f0-be74-4b03-af08-79f32d619ff3" alt="Alt Text" style="width:50%; height:auto;">
 
-The churned customer count is nearly evenly distributed across the salary groups and the income range between €150,000 and €200,000 showcases the highest customer exist with 21.47% , more specifically those clients earning between € 170,000 and €180,000. Furthermore, it is relevant to highlight that looking closely into the income range €110,000 - €120,000 it can be noticed that the churn rate is of 21.59% that is the second highest.
+The churned customer count is nearly evenly distributed across the salary groups and the income range between €150,000 and €200,000 showcases the highest customer exist with 21.47% , more specifically those clients earning between € 170,000 and €180,000.
 
-<img src="https://github.com/user-attachments/assets/687a8eb3-3222-4c39-aafd-9e67c0a99e5d" alt="Alt Text" style="width:50%; height:auto;"> <img src="https://github.com/user-attachments/assets/be8b0422-0306-46a0-ae22-89a4a8893987" alt="Alt Text" style="width:20%; height:auto;">
+Furthermore, it is relevant to highlight that looking closely into the income range €110,000 - €120,000 it can be noticed that the churn rate is of 21.59% that is the second highest.
+
+<img src="https://github.com/user-attachments/assets/687a8eb3-3222-4c39-aafd-9e67c0a99e5d" alt="Alt Text" style="width:50%; height:auto;"> 
 
 It is also observed that in all salary ranges the median salary is higher in those clients who have exited, except for range  €100,000 –  €150,000 where the exited clients median salary is €1,629 lower compared to those still present.
 
