@@ -1,2 +1,3 @@
 # Bank Customer Churn
-This is a study of the potencial reasons behind customer churn of an undisclosed European bank
+Exploratory Data Analysis of an European Bank's Customer Churn patterns
+
