@@ -4,31 +4,33 @@
 ## Table of Contents
 [1. Project Background](#project-background)
 
- [1.1 Data Structure](#data-structure)
-  
-    -[1.2 Data Analysis](#data-analysis)
+ - [1.1 Data Structure](#data-structure)
+ 
+ - [1.2 Data Analysis](#data-analysis)
   
 [2. Executive Summary](#executive-summary)
 
 [3. Analysis](#analysis)
 
-  [3.1 Demographic Segmentation](#demographic-segmentation)
+  - [3.1 Demographic Segmentation](#demographic-segmentation)
   
-  [3.2 Behavioural Segmentation](#behavioural-segmentation)
+  - [3.2 Behavioural Segmentation](#behavioural-segmentation)
   
-  [3.3 Geographical Segmentation](#geographical-segmentation)
+  - [3.3 Geographical Segmentation](#geographical-segmentation)
   
-    [*3.3.1 Salary Orientated*](#salary-orientated)
+    - [*3.3.1 Salary Orientated*](#salary-orientated)
     
-    [*3.3.2 Age Orientated*](#age-orientated)
+    - [*3.3.2 Age Orientated*](#age-orientated)
     
-    [*3.3.3 Credit Score Orientated*](#credit-score-orientated)
+    - [*3.3.3 Credit Score Orientated*](#credit-score-orientated)
     
-    [*3.3.4 Products Orientated*](#products-orientated)
+    - [*3.3.4 Products Orientated*](#products-orientated)
     
-    [*3.3.5 Tenure Orientated*](#tenure-orientated)
+    - [*3.3.5 Tenure Orientated*](#tenure-orientated)
     
-    [*3.3.6 Gender and Activity Orientated*](#gender-and-activity-orientated)
+    - [*3.3.6 Gender and Activity Orientated*](#gender-and-activity-orientated)
+
+   [4. Recommendations](#recommendations)
     
 
 ## Project Background
@@ -170,7 +172,7 @@ The following chart shows the  most populated credit score ranges across the cou
 
 In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries. In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries.
 
-#### Prodcuts Orientated
+#### Products Orientated
 Across all countries the number of products most popular is 1 and 2 with France and Germany with the peak  figures of clients that have the mentioned number of products.
 
 A very strong negative relationship is discovered between the number of products and the churn frequency: the higher the number of products, less are the chances of experiences a customer loss.
