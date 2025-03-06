@@ -1,8 +1,37 @@
 # Bank Customer Churn
 *Exploratory Data Analysis of an European Bank's Customer Churn patterns*
 
+## Table of Contents
+ - [1. Project Background](#project-background)
+ 
+    -[1.1 Data Structure](#data-structure)
+  
+    -[1.2 Data Analysis](#data-analysis)
+  
+[2. Executive Summary](#executive-summary)
 
-## 1. Project Background
+[3. Analysis](#analysis)
+
+  [3.1 Demographic Segmentation](#demographic-segmentation)
+  
+  [3.2 Behavioural Segmentation](#behavioural-segmentation)
+  
+  [3.3 Geographical Segmentation](#geographical-segmentation)
+  
+    [*3.3.1 Salary Orientated*](#salary-orientated)
+    
+    [*3.3.2 Age Orientated*](#age-orientated)
+    
+    [*3.3.3 Credit Score Orientated*](#credit-score-orientated)
+    
+    [*3.3.4 Products Orientated*](#products-orientated)
+    
+    [*3.3.5 Tenure Orientated*](#tenure-orientated)
+    
+    [*3.3.6 Gender and Activity Orientated*](#gender-and-activity-orientated)
+    
+
+## Project Background
 
 The dataset used for the following project was provided by Maven Analytics and it comprises account information of 10,000 customers  from an undisclosed European Bank. The Bank’s Marketing Team requests to identify possible causes of impact on customer retention.
 
@@ -12,17 +41,18 @@ As a data analyst, I have carried out an EDA on the data with the aim to discove
 - **Geographical Segmentation**: where the customers are located (country)
 - **Behavioral Segmentation**: how the client makes use of the services (product quantity, activity, tenure)
 
-### 1.1 Data Structure
+### Data Structure
 The dataset’s structure as seen below consists of 2 tables: Customer_info and Account_info with a total row count of 20,002 records. The dataset was cleaned and relieved of duplicates and considerable outliers.
 <img src="https://github.com/user-attachments/assets/08df895b-bd90-49ce-b561-9dcd7a176f4d" alt="Alt Text" style="width:50%; height:auto;">
-### 1.2 Data Analysis
+
+### Data Analysis
 Excel was the tool used for the data cleaning and transformation. A dashboard was developed to offer the Marketing Team the opportunity to globally monitor customer retention. All can be viewed [Here](Bank_Churn_Clean.xlsx)
 
 <img src="https://github.com/user-attachments/assets/4755a73c-0fb5-4866-b418-0efe118806d6" alt="Alt Text" style="width:50%; height:auto;">
 
 
 
-## 2. Executive Summary
+## Executive Summary
 
 The Bank’s Customer Accounts databases analysis shows an overall churn rate of 20% with Females being more inclined to exit.
 Germany is the country with the highest churn rate with 32%
@@ -42,9 +72,9 @@ The following table highlights how Activity, Gender and Number of Products are t
 <img src="https://github.com/user-attachments/assets/389f0c24-3ffe-4974-8a21-dea2f07bf570" alt="Alt Text" style="width:30%; height:auto;">
 
 
-## 3. Analysis
+## Analysis
 
-### 3.1 Demographic Segmentation
+### Demographic Segmentation
 The bank’s customers database comprises a relatively even gender distribution with 55% being Male while 45% Female and it is observed that the second have a higher churn rate of 11% compared to the 9% of the opposite gender.
 
 <img src="https://github.com/user-attachments/assets/7e0de4c2-341b-4276-9243-61d258fbc24b" alt="Alt Text" style="width:20%; height:auto;">
@@ -69,7 +99,7 @@ Moreover, there is a 0% retention rate for all clients with credit scores under 
 
 <img src="https://github.com/user-attachments/assets/32fdf74d-f6b9-4ba6-9cdc-ecd5feeca4ad" alt="Alt Text" style="width:50%; height:auto;">
 
-### 3.2 Behavioural Segmentation
+### Behavioural Segmentation
 Focusing on churned customers, their greatest share has a 1 year retention duration, followed by 3 & 9 and 5 years. The churn distribution across the number of years is however relatively even.
 
 <img src="https://github.com/user-attachments/assets/2858566f-d6a7-4b27-8a2e-b79d293a5b50" alt="Alt Text" style="width:50%; height:auto;">
@@ -97,14 +127,14 @@ In addition, the balance median of churned customers in range €50,000 - €100
 <img src="https://github.com/user-attachments/assets/08ad6644-e682-42aa-b50f-cf8903607b3e" alt="Alt Text" style="width:50%; height:auto;">
 
 
-### 3.3 Geographical Segmentation
+### Geographical Segmentation
 France holds the highest number of retained customers followed by Spain with a count of 2,063. Germany, however, shows the highest share of churned users that occupy 32% of the country’s global user count.
 
 <img src="https://github.com/user-attachments/assets/0629421a-f46e-49dc-9462-b7b4969a3762" style="width:40%; height:auto;">
 
 Please note that all discussions henceforth will focus around the churned population only.
 
-#### 3.3.1 Salary Orientated
+#### Salary Orientated
 Germany’s highest customers count has users earning less than €50,000 whereas France and Spain both have the highest count for salary €150,000 - €200,000.
 
 <img src="https://github.com/user-attachments/assets/91ad5b3a-43b7-48d1-b92c-691709b6da4d" style="width:50%; height:auto;">
@@ -125,14 +155,14 @@ Germany leads with the highest median salary in all ranges aside from  range 50,
 
 <img src="https://github.com/user-attachments/assets/79319a51-c00c-4de1-aee8-cc215563bda9" style="width:50%; height:auto;">
 
-#### 3.3.2 Age Orientated
+#### Age Orientated
 Germany has the highest customer count for ages under 50,  France alternatively leads in ages between 50 and 60.
 
 <img src="https://github.com/user-attachments/assets/6258837f-25f1-4feb-82d6-374d46d80cf9" style="width:50%; height:auto;">
 
 All three countries present a negative relationship between age and churn count. More specifically,  France and Germany have a week correlation while Spain a moderate one.
 
-#### 3.3.3 Credit Score Orientated
+#### Credit Score Orientated
 
 The following chart shows the  most populated credit score ranges across the countries: most of the terminated users in France have credit score between 600 and 700, in Germany and Spain between 600 and 650 with 154 and 78 customers respectively.
 
@@ -140,12 +170,12 @@ The following chart shows the  most populated credit score ranges across the cou
 
 In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries. In other words, the greater part of the churned population falls under the Fair Credit Score Group across all the countries.
 
-#### 3.3.4 Prodcuts Orientated
+#### Prodcuts Orientated
 Across all countries the number of products most popular is 1 and 2 with France and Germany with the peak  figures of clients that have the mentioned number of products.
 
 A very strong negative relationship is discovered between the number of products and the churn frequency: the higher the number of products, less are the chances of experiences a customer loss.
 
-#### 3.3.5 Tenure Orientated
+#### Tenure Orientated
 
 Spain and France have the highest count of leaving clients at 2 years, then 3 and finally 1. In Germany, on the other hand , customers tend to exit most in year 1 with a significant count of 105 heads.
 
@@ -153,7 +183,7 @@ Spain and France have the highest count of leaving clients at 2 years, then 3 an
 
 However, it is observed that there is an absent to weak relationship between the number of retention years and the churn probability, which could potentially mean that customer loyalty is determined by other factors.
 
-#### 3.3.6 Gender and Activity Orientated
+#### Gender and Activity Orientated
 It is observed that in all countries the number of females is higher than the males. France has the highest difference between genders with 24% and Germany the lowest with 18%.
 
 <img src="https://github.com/user-attachments/assets/94709ace-38f7-44f9-b57a-ac8be00263e6" style="width:50%; height:auto;">
@@ -163,7 +193,7 @@ It is observed that in all countries the number of females is higher than the ma
 In fact, while carrying out a correlation analysis it is observed that both Gender and Activity have a perfect relationship with the churn probability.
 
 
-## 4. Recommendations
+## Recommendations
 
 Considering that Females have the tendency to churn, the bank must focus particular attention on the gender by offering female orientated products, incentives and/or offers.
 
